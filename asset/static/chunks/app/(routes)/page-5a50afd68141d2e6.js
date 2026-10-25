@@ -70,12 +70,9 @@
                       },
                       className:
                         "absolute bottom-30 -left-2 h-[458px] w-2/3 overflow-hidden rounded-[46px] lg:-left-18 lg:w-[305px]",
-                      children: (0, s.jsx)("video", {
-                        src: "/videos/4.mp4",
+                      children: (0, s.jsx)("img", {
+                        src: "/images/img-meme-7.png",
                         alt: "Meme",
-                        autoPlay: !0,
-                        muted: !0,
-                        loop: !0,
                         width: 1e3,
                         height: 1e3,
                         className: "size-full object-cover",
@@ -99,12 +96,9 @@
                       },
                       className:
                         "absolute bottom-0 z-10 aspect-square h-auto w-3/5 overflow-hidden rounded-3xl lg:-bottom-2.5 lg:-left-6.5 lg:h-[232px] lg:w-[232px]",
-                      children: (0, s.jsx)("video", {
-                        src: "/videos/1.mp4",
+                      children: (0, s.jsx)("img", {
+                        src: "/images/img-meme-2.png",
                         alt: "Meme",
-                        autoPlay: !0,
-                        muted: !0,
-                        loop: !0,
                         width: 1e3,
                         height: 1e3,
                         className: "size-full object-cover",
@@ -127,12 +121,9 @@
                       },
                       className:
                         "absolute right-2 -bottom-12 z-10 h-[194px] w-[194px] overflow-hidden rounded-2xl lg:-right-12 lg:-bottom-7",
-                      children: (0, s.jsx)("video", {
-                        src: "/videos/6.mp4",
+                      children: (0, s.jsx)("img", {
+                        src: "/images/img-meme-4.png",
                         alt: "Meme",
-                        autoPlay: !0,
-                        muted: !0,
-                        loop: !0,
                         width: 1e3,
                         height: 1e3,
                         className: "size-full object-cover",
@@ -151,12 +142,9 @@
                       },
                       className:
                         "relative h-[458px] w-full overflow-hidden rounded-2xl lg:w-[505px]",
-                      children: (0, s.jsx)("video", {
-                        src: "/videos/5.mp4",
+                      children: (0, s.jsx)("img", {
+                        src: "/images/img-meme-6.png",
                         alt: "Meme",
-                        autoPlay: !0,
-                        muted: !0,
-                        loop: !0,
                         width: 1e3,
                         height: 1e3,
                         className: "size-full object-cover",
@@ -175,7 +163,7 @@
                         animation: "blurIn",
                         delay: 0.2,
                         by: a ? "word" : "character",
-                        children: "The word PEPE6900 was said:",
+                        children: "The word BTC was said:",
                       }),
                     }),
                     (0, s.jsxs)("div", {
@@ -386,14 +374,10 @@
               transition: { duration: 0.4, delay: 0.2 },
               className: "absolute z-0 h-full w-full",
               children: [
-                (0, s.jsx)("video", {
-                  src: "/videos/bg.mp4",
+                (0, s.jsx)("img", {
+                  src: "/images/img-hero-bg.png",
                   alt: "Hero Background",
-                  style: { height: "100%", width: "100%" },
-                  fill: !0,
-                  autoPlay: !0,
-                  muted: !0,
-                  loop: !0,
+                  style: { height: "100%", width: "100%", objectFit: "cover" },
                   className: "object-cover",
                 }),
                 (0, s.jsx)("div", {
@@ -529,13 +513,10 @@
                       },
                       className:
                         "absolute z-10 size-[12rem] -rotate-15 overflow-hidden rounded-xl lg:size-[20rem]",
-                      children: (0, s.jsx)("video", {
-                        src: "/videos/2.mp4",
+                      children: (0, s.jsx)("img", {
+                        src: "/images/img-meme-1.png",
                         alt: "Hero Image",
                         width: 500,
-                        autoPlay: !0,
-                        muted: !0,
-                        loop: !0,
                         height: 500,
                         className: "size-full object-cover",
                       }),
@@ -563,14 +544,11 @@
                       },
                       className:
                         "absolute z-10 size-[12rem] -rotate-15 overflow-hidden rounded-xl lg:size-[20rem]",
-                      children: (0, s.jsx)("video", {
-                        src: "/videos/1.mp4",
+                      children: (0, s.jsx)("img", {
+                        src: "/images/img-meme-8.png",
                         alt: "Hero Image",
                         width: 500,
                         height: 500,
-                        autoPlay: !0,
-                        muted: !0,
-                        loop: !0,
                         className: "size-full object-cover",
                       }),
                     }),
@@ -632,7 +610,7 @@
                           delay: 0.2,
                           by: e ? "word" : "character",
                           color: "#00ff26",
-                          children: "PEPE6900 Fam",
+                          children: "BTC Fam",
                         }),
                       ],
                     }),
@@ -689,7 +667,7 @@
         o = t(2363),
         c = t(9809);
       function d() {
-        let e = "0x43637b9e9b45344295728fe436a29a913a8d3895",
+        let e = "TBA",
           [a, t] = (0, n.useState)(!1),
           d = (0, c.U)("(max-width: 768px)");
         return (0, s.jsx)("section", {
@@ -708,7 +686,7 @@
                   animation: "blurIn",
                   delay: 0.2,
                   by: d ? "word" : "character",
-                  children: "What is PEPE6900",
+                  children: "What is Big Titty Coin",
                 }),
               }),
               (0, s.jsxs)("div", {
@@ -735,12 +713,9 @@
                       viewport: { once: !0 },
                       className: "relative size-full max-w-[20rem]",
                       children: [
-                        (0, s.jsx)("video", {
-                          src: "/videos/33.mp4",
+                        (0, s.jsx)("img", {
+                          src: "/images/img-meme-5.png",
                           alt: "Hero Image",
-                          autoPlay: !0,
-                          muted: !0,
-                          loop: !0,
                           width: 500,
                           height: 500,
                           className: "size-full rounded-xl object-cover",
@@ -772,7 +747,7 @@
                     children: (0, s.jsxs)("p", {
                       className: "max-lg:text-center lg:text-[32px]",
                       children: [
-                        `PEPE6900 is the ultimate fusion of internet legend and cosmic ambition—a memecoin that's not just riding the frog wave, but launching it to the stars. Born from the chaotic genius of the original PEPE meme (you know, that sad-yet-savage frog who's been through it all), PEPE6900 cranks the dial to 11 with a cheeky nod to the "nice" milestone of 69 (doubled for extra spice) and 00 for that clean-slate reset to zero-gravity gains.`,
+                        `Big Titty Coin ($BTC) is the orange-haired memecoin built around one shrug, one ticker, and a community that refuses to log off. No frog lore and no secret roadmap. Just the mascot, the memes, and degens holding $BTC for the ride.`,
                       ],
                     }),
                   }),

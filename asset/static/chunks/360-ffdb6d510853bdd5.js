@@ -571,10 +571,10 @@
         })
         .parse({
           BUY_URL:
-            "https://app.uniswap.org/swap?inputCurrency=NATIVE&outputCurrency=0x43637b9e9b45344295728fe436a29a913a8d3895",
+            "https://app.uniswap.org/swap?inputCurrency=NATIVE",
           CHART_URL:
-            "https://dexscreener.com/ethereum/0x43637b9e9b45344295728fe436a29a913a8d3895",
-          X_URL: "https://x.com/pepe6900eth_x",
+            "https://dexscreener.com/ethereum",
+          X_URL: "https://x.com/bigtitty_x",
           API_BASE_URL: "https://api.bullishdegen.com/v1",
           APP_URL: "https://pfp.bullishdegen.com",
           LAMBO_URL: "https://www.lamborghini.com",

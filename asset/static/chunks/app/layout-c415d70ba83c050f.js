@@ -25,7 +25,7 @@
                 animation: "blurIn",
                 delay: 0.2,
                 by: e ? "word" : "character",
-                children: "Join The PEPE6900 Cult!",
+                children: "Join The BTC Cult!",
               }),
             }),
             (0, i.jsxs)("div", {
@@ -89,7 +89,7 @@
                         viewport: { once: !0 },
                         className:
                           "font-unbounded text-4xl font-bold lg:text-[124px]",
-                        children: "$PEPE6900",
+                        children: "$BTC",
                       }),
                       (0, i.jsxs)(s.P.div, {
                         initial: {
@@ -111,7 +111,7 @@
                         children: [
                           (0, i.jsx)("p", {
                             className: "lg:text-[32px]",
-                            children: "You're not holding enough $PEPE6900!",
+                            children: "You're not holding enough $BTC!",
                           }),
                           " ",
                           (0, i.jsx)(r.$, {
@@ -227,13 +227,13 @@
                 children: [
                   (0, i.jsx)("h1", {
                     className: "font-unbounded text-2xl font-black",
-                    children: "PEPE6900",
+                    children: "BTC",
                   }),
                   (0, i.jsxs)("div", {
                     className:
                       "bg-primary-dark-2 font-unbounded items-center rounded-full px-4 py-3 font-bold max-lg:hidden",
                     children: [
-                      "The word PEPE6900 was said:",
+                      "The word BTC was said:",
                       " ",
                       (0, i.jsxs)("span", {
                         className: "text-primary",
@@ -245,7 +245,7 @@
                   }),
                   (0, i.jsx)(r.$, {
                     onClick: () => window.open(n.A.BUY_URL, "_blank"),
-                    children: "Buy $PEPE6900",
+                    children: "Buy $BTC",
                   }),
                 ],
               }),
@@ -254,7 +254,7 @@
               className:
                 "bg-primary-dark-2 font-unbounded mx-5 items-center rounded-full px-2 py-3 text-center text-xs text-[10px] font-bold lg:hidden",
               children: [
-                "The word PEPE6900 was said:",
+                "The word BTC was said:",
                 " ",
                 (0, i.jsxs)("span", {
                   className: "text-primary",
